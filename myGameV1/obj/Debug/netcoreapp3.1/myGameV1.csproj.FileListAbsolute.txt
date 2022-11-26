@@ -1,0 +1,13 @@
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\obj\Debug\netcoreapp3.1\myGameV1.csprojAssemblyReference.cache
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\obj\Debug\netcoreapp3.1\myGameV1.AssemblyInfoInputs.cache
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\obj\Debug\netcoreapp3.1\myGameV1.AssemblyInfo.cs
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\obj\Debug\netcoreapp3.1\myGameV1.csproj.CoreCompileInputs.cache
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\bin\Debug\netcoreapp3.1\myGameV1.exe
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\bin\Debug\netcoreapp3.1\myGameV1.deps.json
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\bin\Debug\netcoreapp3.1\myGameV1.runtimeconfig.json
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\bin\Debug\netcoreapp3.1\myGameV1.runtimeconfig.dev.json
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\bin\Debug\netcoreapp3.1\myGameV1.dll
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\bin\Debug\netcoreapp3.1\myGameV1.pdb
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\obj\Debug\netcoreapp3.1\myGameV1.dll
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\obj\Debug\netcoreapp3.1\myGameV1.pdb
+C:\Users\Sarim\source\repos\myGameV1\myGameV1\obj\Debug\netcoreapp3.1\myGameV1.genruntimeconfig.cache
